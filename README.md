@@ -1,4 +1,7 @@
 ethankurt.github.io
 ===================
 
-Brief About me. (JFF) 
+This is the brief about me site and it's JFF.
+Feel free to copy, modify and publish the source codes.
+
+Yes, you are welcome! 
