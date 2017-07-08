@@ -1,4 +1,4 @@
 ethankurt.github.io
 ===================
 
-This is my 1st github.io testing.
+Brief About me. (JFF) 
